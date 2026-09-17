@@ -23,7 +23,7 @@ setup(
         ],
     },
     entry_points={
-        'console_scripts': ['turtle_mission = aerial_guild_tasks.turtle_mission:main'
+        'console_scripts': ['turtle_mission = aerial_guild_tasks.turtle_mission:main','turtle_goal = aerial_guild_tasks.turtle_goal:main'
         ],
     },
 )
